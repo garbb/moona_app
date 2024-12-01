@@ -9,7 +9,8 @@ Here are the instructions:
 - Leave the username and password blank and tap log in
 - Now you should be able to click the bluetooth icon and connect your moona
 - once you have verified this works, install [moona_5.8.7_patched1_offline_upgrade.apk](https://github.com/garbb/moona_app/releases/download/1/moona_5.8.7_patched1_offline_upgrade.apk)
-- this should allow the moona app to work totally offline.
+- run the app again and connect to your moona at least once
+- now the moona app should be able to work totally offline
 - if you ever see the bluetooth icon on the top-left turn red just tap it and try to connect again
 
 Let me know if this works for you since I haven't tried it with any other phone or moona unit other than my own.
